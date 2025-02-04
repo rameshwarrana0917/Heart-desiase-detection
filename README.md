@@ -1,1 +1,1 @@
-# Heart-desiase-detection
+# HeartDisease-Detection-ML-
